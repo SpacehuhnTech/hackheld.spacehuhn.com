@@ -10,6 +10,8 @@ const config = {
   tagline: 'Open-Source Hackable Handheld',
   favicon: 'img/favicon.ico',
 
+  scripts: [{ src: 'https://plausible.io/js/script.js', defer: true, 'data-domain': 'hackheld.spacehuhn.com' }],
+
   // Set the production url of your site here
   url: 'https://hackheld.spacehuhn.com',
   // Set the /<baseUrl>/ pathname under which your site is served
