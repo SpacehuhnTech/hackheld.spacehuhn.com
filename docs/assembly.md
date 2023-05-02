@@ -86,7 +86,7 @@ Before you start, ensure you have all [necessary parts and tools](getting-starte
 
 :::caution
 Make sure the OLED pinout matches the one on the front side of the PCB. It must be compatible with `VDD GND SCK SDA`. It's important that `VDD` and `GND` are at the same place because some displays have them swapped, which would create a short circuit.
-![](/img/hackheld-oled-pinout.jpg)
+![HackHeld OLED pinout warning](/img/hackheld-oled-pinout.jpg)
 *If you have the wrong display, [scroll down for a workaround](#workaround-for-swapped-oled).*
 :::
 
