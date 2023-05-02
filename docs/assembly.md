@@ -84,6 +84,12 @@ Before you start, ensure you have all [necessary parts and tools](getting-starte
 
 ## 6. OLED display
 
+:::caution
+Make sure the OLED pinout matches the one on the front side of the PCB. It must be compatible with `VDD GND SCK SDA`. It's important that `VDD` and `GND` are at the same place because some displays have them swapped, which would create a short circuit.
+![](/img/hackheld-oled-pinout.jpg)
+*If you have the wrong display, [scroll down for a workaround](#workaround-for-swapped-oled).*
+:::
+
 1. Take the OLED display, the PCB, and some tape.
 ![HackHeld, OLED display, tape](/img/hackheld-oled-1.jpg)
 
@@ -123,3 +129,18 @@ Place the PCB into the case and screw in the 4 screws.
 Check out [firmware installation](firmware) guide if you want to install the Deauther firmware. 
 
 Visit [deauther.com](https://deauther.com/docs/usage/display) to learn how to use the Deauther.
+
+---
+
+## Workaround for swapped OLED
+
+If `VDD` and `GND` are swapped on your OLED display, you can still use it. 
+
+1. Cut the vertical jumper bridges on the PCB with a knife.
+![Cutting jumper bridges on HackHeld PCB with a knife](/img/hackheld-oled-jumper-scratch.jpg)
+
+2. Then solder the horizontal jumper bridges on the front side of the PCB.
+![Soldered jumper bridges on HackHeld PCB](/img/hackheld-oled-jumper-solder.jpg)
+It doesn't have to look pretty to work. You can measure the voltage between `VDD` and `GND` to ensure it's correct.
+
+Now you can solder the OLED display to the PCB as described [above](#6-oled-display).
