@@ -5,6 +5,7 @@ sidebar_position: 60
 # FAQ
 
 ## What can it do?
+
 The HackHeld is a portable device that can be used to test the security of your WiFi network. 
 With the Deauther firmware installed, it can perform a variety of attacks against WiFi networks, including:
 

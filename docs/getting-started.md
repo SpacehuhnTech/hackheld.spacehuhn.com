@@ -9,10 +9,16 @@ Here's everything you need to get started with the project.
 ## Skills
 
 The project is designed to be easy to assemble. You don't need any special skills.  
-If you can solder, you can build it.  
-If you can't solder, you can learn it. It's not that hard 😊.  
+If you can solder, you can build it; if you can't, you can learn it. So it's not that hard 😊.  
 
 If you've soldered something and worked with Arduino before, you'll have an easier time. But it's not necessary.
+
+I recommend watching some soldering tutorials on YouTube if you've never soldered before. I found this one to be quite good and concise: 
+[Soldering Tutorial for Beginners: Five Easy Steps](https://www.youtube.com/watch?v=Qps9woUGkvI). 
+
+Adafruit also has a great [Soldering 101 guide](https://learn.adafruit.com/adafruit-guide-excellent-soldering) and [Reference Cards](https://blog.adafruit.com/2016/12/26/new-reference-card-soldering-101/):
+
+[![Adafruit Soldering Reference Card](https://cdn-blog.adafruit.com/uploads/2016/12/solder-card.png)](https://blog.adafruit.com/2016/12/26/new-reference-card-soldering-101/)
 
 ## Tools
 
