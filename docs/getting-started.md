@@ -40,12 +40,12 @@ Additionally, you need a computer to program the HackHeld. Unfortunately, you ca
 ![HackHeld Parts](/img/hackheld-parts.jpg)
 
 :::tip Shopping 🛍️
-You can buy the HackHeld Vega as a DIY kit from my shop: [spacehuhn.store](https://spacehuhn.store/products/hackheld-vega-kit)
+You can buy the HackHeld Vega as a DIY kit from my shop: [spacehuhn.store](https://spacehuhn.store/products/hackheld-vega-ii-kit)
 :::
 
 | Part | Description | Link* |
 | ---- | ----------- | ----- |
-| PCB | The PCB is the heart of HackHeld. It connects all the components. | [Gerber Files](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_PCB/Hackheld_Vega_II_gerbers.zip), [JLCPCB](https://jlcpcb.com/?from=Spacehuhn) |
+| PCB | The PCB is the heart of HackHeld. It connects all the components. | [Gerber Files](https://github.com/SpacehuhnTech/HackHeld/blob/main/HackHeld%20Vega%20II/HackHeld%20Vega%20II%20Gerbers.zip?raw=true), [JLCPCB](https://jlcpcb.com/?from=Spacehuhn) |
 | D1 Mini | The development board that powers the HackHeld. It doesn't matter which D1 mini you get, but I recommend the Lolin D1 Mini V4 with USB-C. | [Amazon](https://amzn.to/3VrhE0M), [Lolin D1 Mini V4](https://de.aliexpress.com/item/32529101036.html) |
 | OLED 1.3" SH1106 | The display of the HackHeld. It's a 1.3" OLED display with 128x64 pixels using the SH1106 driver. Make sure to use the 4-pin variant. | [Amazon](https://amzn.to/3HuY9Pg), [Aliexpress](https://s.click.aliexpress.com/e/_DCTKSqt) |
 | 10k Resistor | A 10k resistor is needed as a pull-up for the left button. You can use a through-hole resistor or a 1206 SMD resistor. | [Amazon](https://amzn.to/3LKAZXO), [AliExpress](https://s.click.aliexpress.com/e/_DnMFIRj), [AliExpress SMD](https://s.click.aliexpress.com/e/_Dkm6GEv) |
