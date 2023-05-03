@@ -7,6 +7,5 @@ sidebar_position: 80
 * [ESP8266 Deauther](https://deauther.com)
 * [PCB files](https://github.com/SpacehuhnTech/Hackheld)
 * [HackHeld Vega Kit](https://spacehuhn.store/products/hackheld-vega-kit)
-* [DSTIKE HackHeld](https://dstike.com/products/dstike-hackheld)
-* 3D-printable case
-* Video tutorial
+* [3D-printable case](https://www.printables.com/model/469147-hackheld-vega-ii-case)
+* [Interactive BOM](http://hackheld.spacehuhn.com/ibom.html)

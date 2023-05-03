@@ -51,7 +51,7 @@ You can buy the HackHeld Vega as a DIY kit from my shop: [spacehuhn.store](https
 | 10k Resistor | A 10k resistor is needed as a pull-up for the left button. You can use a through-hole resistor or a 1206 SMD resistor. | [Amazon](https://amzn.to/3LKAZXO), [AliExpress](https://s.click.aliexpress.com/e/_DnMFIRj), [AliExpress SMD](https://s.click.aliexpress.com/e/_Dkm6GEv) |
 | **6x** Buttons | 6x6mm 4pin tactile push buttons. | [Amazon](https://amzn.to/3p19zUE), [AliExpress](https://s.click.aliexpress.com/e/_DFtw4vX) |
 | Neopixel LED | WS2812B LED. | [AliExpress](https://s.click.aliexpress.com/e/_DnrMXLf) |
-| Case | For 3D printing. | **Coming Soon** |
+| Case | For 3D printing. | [Printables](https://www.printables.com/model/469147-hackheld-vega-ii-case) |
 | **4x** M2 Screws | To screw the case together. I bought 4mm long screws. They should be at least 2.5mm and not longer than 10mm. | [Amazon](https://amzn.to/3NNXRHt), [AliExpress](https://s.click.aliexpress.com/e/_DmXyzSd) |
 
 :::caution
