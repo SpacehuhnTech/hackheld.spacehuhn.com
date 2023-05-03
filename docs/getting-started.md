@@ -39,6 +39,10 @@ Additionally, you need a computer to program the HackHeld. Unfortunately, you ca
 
 ![HackHeld Parts](/img/hackheld-parts.jpg)
 
+:::tip Shopping 🛍️
+You can buy the HackHeld Vega as a DIY kit from my shop: [spacehuhn.store](https://spacehuhn.store/products/hackheld-vega-kit)
+:::
+
 | Part | Description | Link* |
 | ---- | ----------- | ----- |
 | PCB | The PCB is the heart of HackHeld. It connects all the components. | [Gerber Files](https://github.com/SpacehuhnTech/Hackheld/blob/main/Hackheld_Vega_PCB/Hackheld_Vega_II_gerbers.zip), [JLCPCB](https://jlcpcb.com/?from=Spacehuhn) |
