@@ -8,6 +8,11 @@ sidebar_position: 40
 Before you start, ensure you have all [necessary parts and tools](getting-started). 
 :::
 
+**Video Tutorial:**  
+This video shows the assembly process of the HackHeld Vega II Kit. It follows the same steps as described below. Use it as a reference if you are unsure about any step. The chapter marks in the video allow you to jump to a specific step.
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/lWNzayMJkE0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
 ## 1. D1 Mini
 
 1. Take the HackHeld Vega PCB, the D1 Mini, and the header pins. 
