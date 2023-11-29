@@ -8,8 +8,8 @@ import { themes as prismThemes } from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'HackHeld',
+  tagline: 'Open-Source Hackable Handheld',
   favicon: 'img/favicon.ico',
 
   scripts: [{ src: 'https://plausible.io/js/script.js', defer: true, 'data-domain': 'hackheld.spacehuhn.com' }],
