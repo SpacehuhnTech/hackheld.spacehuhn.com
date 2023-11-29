@@ -9,7 +9,7 @@ import Button from '@mui/material/Button';
 
 ![HackHeld Vega](/img/hackheld-deauther-2.jpg)
 
-<Button href='https://spacehuhn.store/products/hackheld-vega-ii-kit' target='_blank' variant='contained'>Buy from Spacehuhn.store</Button>
+<Button href='https://spacehuhn.store/collections/hackheld' target='_blank' variant='contained'>Buy on Spacehuhn.store</Button>
 <br /><br />
 
 Hackheld is a DIY, open-source, hackable handheld designed to be easy to build and customize. It is based on the ESP8266 Lolin D1 Mini development board and features a 1.3" OLED display, six buttons, and a NeoPixel RGB LED. It runs the [Deauther](https://deauther.com) firmware, which allows it to perform various tests against Wi-Fi networks.
