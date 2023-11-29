@@ -25,10 +25,9 @@ Visit [deauther.com](https://deauther.com/docs/category/usage) for more informat
 I designed the HackHeld Vega with a focus on ease of assembly and low cost to allow as many people as possible to build their own HackHeld. 
 Adding battery support would have increased the cost and complexity of the build significantly, especially for beginners. 
 
-Luckily, the HackHeld Vega is powered by a standard USB-C connection. So you can use a power bank to power it on the go. Some phones even support reverse charging, which means you can use your phone to power the HackHeld Vega. 
+(NEW!) To still allow battery-powered operation, I designed a [battery mod](/battery) that you can buy and install separately!  
 
-The source files are open-source; you can modify them to add battery support. But I want to keep the HackHeld Vega as simple as possible, so I won't add battery support to the official design.
-That being said, I hope to make a different, more premium version HackHeld in the future, with battery support and new features.
+Otherwise, the HackHeld Vega is powered by a standard USB-C connection. So you can use a power bank to power it on the go. Some phones even support reverse charging, which means you can use your phone to power the HackHeld Vega. 
 
 ## Can it do other things?
 
