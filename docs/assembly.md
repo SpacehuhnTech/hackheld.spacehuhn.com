@@ -103,6 +103,11 @@ Make sure the OLED pinout matches the one on the front side of the PCB. It must 
 ![Removing plastic part from headers of OLED display](/img/hackheld-oled-3.jpg)
 
 4. Add tape on the backside of the OLED display. This will prevent the display from shorting with the D1 Mini.
+
+:::tip
+The kit now includes a piece of adhesive foam. You can use it instead of tape. It's easier to apply and you can use it to fix the display in place before soldering.
+:::
+
 ![Adding tape to OLED display](/img/hackheld-oled-4.jpg)
 ![Adding tape to OLED display](/img/hackheld-oled-5.jpg)
 
