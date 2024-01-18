@@ -14,3 +14,6 @@ sidebar_position: 80
 
 **Battery Mod**
 * [3D-printable case](https://www.printables.com/model/692511-hackheld-vega-ii-battery-mod-case/)
+
+**Top Cover**
+* [3D-printable top cover](https://www.printables.com/model/727406-top-cover-for-hackheld-vega-ii)
