@@ -51,7 +51,10 @@ Example Batteries:
 * [Adafruit 350mAh 35x20x5.5mm 552035](https://www.adafruit.com/product/2750)
 * [Amazon DE 450mAh 35x25x5mm 052535](https://amzn.to/4a1x2Ib)
 * [Amazon DE 300mAh 30x20x6mm 602030](https://amzn.to/3N23oZy)
-* [AliExpress 600mAh 35x25x6mm 602535](https://s.click.aliexpress.com/e/_DmWvsqV)
+* [AliExpress 330mAh 35x20x5mm 502035](https://s.click.aliexpress.com/e/_DBjUcKl)
+* [AliExpress 500mAh 30x25x6mm 602530](https://s.click.aliexpress.com/e/_DF6ts1b)
+* [AliExpress 500mAh 30x20x9mm 902030 (select 2pin 2.0mm plug)](https://s.click.aliexpress.com/e/_DnOZpeZ)
+* [AliExpress 600mAh 35x25x6mm 602535 (select 2pin 2.0F)](https://s.click.aliexpress.com/e/_DmWvsqV)
 
 ![3 different LiPo batteries](/img/hackheld-bat-mod1-2.jpg)
 
